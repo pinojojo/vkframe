@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.glsl": "glsl",
+        "*.cpp": "cpp",
+        "functional": "cpp",
+        "memory": "cpp"
+    }
+}
